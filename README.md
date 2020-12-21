@@ -1,1 +1,1 @@
-"# FaceRig-Workshop-Downloader" 
+# FaceRig-Workshop-Downloader
